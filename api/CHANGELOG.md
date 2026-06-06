@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.2
+
+- Publish frontend, API, and MMR API images from main using the shared release version.
+
 ## 1.2.1
 
 - Sync release version with frontend and mmr-api.

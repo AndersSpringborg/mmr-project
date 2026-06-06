@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.2
+
+- Publish frontend, API, and MMR API images from main using the shared release version.
+
 ## 1.2.1
 
 - chore(deps-dev): bump ip-address from 10.1.0 to 10.2.0 in /frontend
